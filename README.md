@@ -32,10 +32,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0061-rotate-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/2181-merge-nodes-in-between-zeros) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
