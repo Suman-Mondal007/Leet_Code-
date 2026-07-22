@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0160-intersection-of-two-linked-lists) |
 | [1669-merge-in-between-linked-lists](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -43,4 +44,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0160-intersection-of-two-linked-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
