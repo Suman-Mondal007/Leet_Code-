@@ -73,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0196-delete-duplicate-emails) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
