@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
