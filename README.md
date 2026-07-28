@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0160-intersection-of-two-linked-lists) |
 | [1669-merge-in-between-linked-lists](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0165-compare-version-numbers) |
 ## Hash Table
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0148-sort-list) |
 ## Database
 |  |
 | ------- |
@@ -83,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0371-sum-of-two-integers) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
