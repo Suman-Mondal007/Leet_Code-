@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0067-add-binary) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
@@ -82,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/Suman-Mondal007/Leet_Code-/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
